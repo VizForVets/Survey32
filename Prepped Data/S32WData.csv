@@ -1,0 +1,725 @@
+﻿Question,Question Text,Answer,Answer Text,Count
+S32W.Q1,How old were you on your last birthday?,2,20 years,448
+S32W.Q1,How old were you on your last birthday?,1,19 years or younger,232
+S32W.Q1,How old were you on your last birthday?,7,35 years or older,564
+S32W.Q1,How old were you on your last birthday?,4,25-27,803
+S32W.Q1,How old were you on your last birthday?,0,No answer,23
+S32W.Q1,How old were you on your last birthday?,3,21-24,1737
+S32W.Q1,How old were you on your last birthday?,5,28-29,336
+S32W.Q1,How old were you on your last birthday?,6,30-34,650
+S32W.Q10,"If you could go to any Army camp you wanted to, would you rather stay here or would you rather go to some other camp?",2,I would rather go to some other camp,3087
+S32W.Q10,"If you could go to any Army camp you wanted to, would you rather stay here or would you rather go to some other camp?",1,I would rather stay here,1247
+S32W.Q10,"If you could go to any Army camp you wanted to, would you rather stay here or would you rather go to some other camp?",0,No answer,39
+S32W.Q10,"If you could go to any Army camp you wanted to, would you rather stay here or would you rather go to some other camp?",3,Undecided,420
+S32W.Q11,"If you would like to go to any other Army camp in the United States, which one would you want to go to?",2,"Any general mention of ""South""",16
+S32W.Q11,"If you would like to go to any other Army camp in the United States, which one would you want to go to?",1,"Any general mention of ""North"" (any place outside the South, anywhere a Negro's treated like a man, anywhere North, etc.)",53
+S32W.Q11,"If you would like to go to any other Army camp in the United States, which one would you want to go to?",5,"No answer, ""anywhere""",819
+S32W.Q11,"If you would like to go to any other Army camp in the United States, which one would you want to go to?",0,No code or no data,5
+S32W.Q11,"If you would like to go to any other Army camp in the United States, which one would you want to go to?",3,"Any general mention of ""West""",30
+S32W.Q11,"If you would like to go to any other Army camp in the United States, which one would you want to go to?",4,"""Anywhere as long as it's U.S.""",55
+S32W.Q11,"If you would like to go to any other Army camp in the United States, which one would you want to go to?",6,Inapplicable (Q.10 coded 1),1239
+S32W.Q11,"If you would like to go to any other Army camp in the United States, which one would you want to go to?",11,Maine,11
+S32W.Q11,"If you would like to go to any other Army camp in the United States, which one would you want to go to?",12,New Hampshire,11
+S32W.Q11,"If you would like to go to any other Army camp in the United States, which one would you want to go to?",13,Vermont,8
+S32W.Q11,"If you would like to go to any other Army camp in the United States, which one would you want to go to?",14,Massachusetts,246
+S32W.Q11,"If you would like to go to any other Army camp in the United States, which one would you want to go to?",15,Rhode Island,2
+S32W.Q11,"If you would like to go to any other Army camp in the United States, which one would you want to go to?",16,Connecticut,11
+S32W.Q11,"If you would like to go to any other Army camp in the United States, which one would you want to go to?",21,New York,135
+S32W.Q11,"If you would like to go to any other Army camp in the United States, which one would you want to go to?",22,New Jersey,134
+S32W.Q11,"If you would like to go to any other Army camp in the United States, which one would you want to go to?",23,Pennsylvania,73
+S32W.Q11,"If you would like to go to any other Army camp in the United States, which one would you want to go to?",31,Ohio,72
+S32W.Q11,"If you would like to go to any other Army camp in the United States, which one would you want to go to?",32,Indiana,63
+S32W.Q11,"If you would like to go to any other Army camp in the United States, which one would you want to go to?",33,Illinois,243
+S32W.Q11,"If you would like to go to any other Army camp in the United States, which one would you want to go to?",34,Michigan,132
+S32W.Q11,"If you would like to go to any other Army camp in the United States, which one would you want to go to?",35,Wisconsin,40
+S32W.Q11,"If you would like to go to any other Army camp in the United States, which one would you want to go to?",41,Minnesota,37
+S32W.Q11,"If you would like to go to any other Army camp in the United States, which one would you want to go to?",42,Iowa,12
+S32W.Q11,"If you would like to go to any other Army camp in the United States, which one would you want to go to?",43,Missouri,68
+S32W.Q11,"If you would like to go to any other Army camp in the United States, which one would you want to go to?",44,North Dakota,1
+S32W.Q11,"If you would like to go to any other Army camp in the United States, which one would you want to go to?",45,South Dakota,3
+S32W.Q11,"If you would like to go to any other Army camp in the United States, which one would you want to go to?",46,Nebraska,11
+S32W.Q11,"If you would like to go to any other Army camp in the United States, which one would you want to go to?",47,Kansas,19
+S32W.Q11,"If you would like to go to any other Army camp in the United States, which one would you want to go to?",51,Delaware,1
+S32W.Q11,"If you would like to go to any other Army camp in the United States, which one would you want to go to?",52,Maryland,89
+S32W.Q11,"If you would like to go to any other Army camp in the United States, which one would you want to go to?",53,District of Columbia,9
+S32W.Q11,"If you would like to go to any other Army camp in the United States, which one would you want to go to?",54,Virginia,70
+S32W.Q11,"If you would like to go to any other Army camp in the United States, which one would you want to go to?",55,West Virginia,1
+S32W.Q11,"If you would like to go to any other Army camp in the United States, which one would you want to go to?",56,North Carolina,56
+S32W.Q11,"If you would like to go to any other Army camp in the United States, which one would you want to go to?",57,South Carolina,31
+S32W.Q11,"If you would like to go to any other Army camp in the United States, which one would you want to go to?",58,Georgia,103
+S32W.Q11,"If you would like to go to any other Army camp in the United States, which one would you want to go to?",59,Florida,64
+S32W.Q11,"If you would like to go to any other Army camp in the United States, which one would you want to go to?",61,Kentucky,102
+S32W.Q11,"If you would like to go to any other Army camp in the United States, which one would you want to go to?",62,Tennessee,37
+S32W.Q11,"If you would like to go to any other Army camp in the United States, which one would you want to go to?",63,Alabama,43
+S32W.Q11,"If you would like to go to any other Army camp in the United States, which one would you want to go to?",64,Mississippi,23
+S32W.Q11,"If you would like to go to any other Army camp in the United States, which one would you want to go to?",71,Arkansas,41
+S32W.Q11,"If you would like to go to any other Army camp in the United States, which one would you want to go to?",72,Louisiana,23
+S32W.Q11,"If you would like to go to any other Army camp in the United States, which one would you want to go to?",73,Oklahoma,66
+S32W.Q11,"If you would like to go to any other Army camp in the United States, which one would you want to go to?",74,Texas,188
+S32W.Q11,"If you would like to go to any other Army camp in the United States, which one would you want to go to?",81,Montana,1
+S32W.Q11,"If you would like to go to any other Army camp in the United States, which one would you want to go to?",82,Idaho,2
+S32W.Q11,"If you would like to go to any other Army camp in the United States, which one would you want to go to?",83,Wyoming,5
+S32W.Q11,"If you would like to go to any other Army camp in the United States, which one would you want to go to?",84,Colorado,32
+S32W.Q11,"If you would like to go to any other Army camp in the United States, which one would you want to go to?",85,New Mexico,10
+S32W.Q11,"If you would like to go to any other Army camp in the United States, which one would you want to go to?",86,Arizona,8
+S32W.Q11,"If you would like to go to any other Army camp in the United States, which one would you want to go to?",87,Utah,12
+S32W.Q11,"If you would like to go to any other Army camp in the United States, which one would you want to go to?",88,Nevada,3
+S32W.Q11,"If you would like to go to any other Army camp in the United States, which one would you want to go to?",91,Washington,39
+S32W.Q11,"If you would like to go to any other Army camp in the United States, which one would you want to go to?",92,Oregon,14
+S32W.Q11,"If you would like to go to any other Army camp in the United States, which one would you want to go to?",93,California,164
+S32W.Q11,"If you would like to go to any other Army camp in the United States, which one would you want to go to?",94,Alaska,5
+S32W.Q11,"If you would like to go to any other Army camp in the United States, which one would you want to go to?",95,Hawaii,2
+S32W.Q12,"In general, where would you like best to be stationed?",2,In a camp in the South,1535
+S32W.Q12,"In general, where would you like best to be stationed?",1,In a camp in the North,1770
+S32W.Q12,"In general, where would you like best to be stationed?",3,In a camp in the West,949
+S32W.Q12,"In general, where would you like best to be stationed?",0,No code or no data,8
+S32W.Q12,"In general, where would you like best to be stationed?",4,Undecided,406
+S32W.Q12,"In general, where would you like best to be stationed?",5,No answer,125
+S32W.Q12A.1,"(In general, where would you like best to be stationed?) Why?",2,Not chosen,3591
+S32W.Q12A.1,"(In general, where would you like best to be stationed?) Why?",1,"Closer to home, or family",1202
+S32W.Q12A.10,"(In general, where would you like best to be stationed?) Why?",2,Not chosen,3818
+S32W.Q12A.10,"(In general, where would you like best to be stationed?) Why?",1,No comment,975
+S32W.Q12A.2,"(In general, where would you like best to be stationed?) Why?",2,Not chosen,4297
+S32W.Q12A.2,"(In general, where would you like best to be stationed?) Why?",1,"Habit (used to the South or North, born there, etc.)",496
+S32W.Q12A.3,"(In general, where would you like best to be stationed?) Why?",2,Not chosen,4149
+S32W.Q12A.3,"(In general, where would you like best to be stationed?) Why?",1,"Sectional differences (people are more friendly here, or less friendly somewhere else, better living conditions, recreation, hospitality, etc.)",644
+S32W.Q12A.4,"(In general, where would you like best to be stationed?) Why?",2,Not chosen,3137
+S32W.Q12A.4,"(In general, where would you like best to be stationed?) Why?",1,Prefer climate,1656
+S32W.Q12A.5,"(In general, where would you like best to be stationed?) Why?",2,Not chosen,4697
+S32W.Q12A.5,"(In general, where would you like best to be stationed?) Why?",1,Adventure (want to see places where I haven't been),96
+S32W.Q12A.6,"(In general, where would you like best to be stationed?) Why?",2,Not chosen,4785
+S32W.Q12A.6,"(In general, where would you like best to be stationed?) Why?",1,Farther from home (so I won't be close enough to home to feel homesick),8
+S32W.Q12A.7,"(In general, where would you like best to be stationed?) Why?",2,Not chosen,4562
+S32W.Q12A.7,"(In general, where would you like best to be stationed?) Why?",1,Restatement of preference without reasons given (I just like the South better),231
+S32W.Q12A.8,"(In general, where would you like best to be stationed?) Why?",2,Not chosen,4728
+S32W.Q12A.8,"(In general, where would you like best to be stationed?) Why?",1,Better Army training (specific military training),65
+S32W.Q12A.9,"(In general, where would you like best to be stationed?) Why?",2,Not chosen,4587
+S32W.Q12A.9,"(In general, where would you like best to be stationed?) Why?",1,Other,206
+S32W.Q13,In what state of the United States did you spend most of the past five years of your civilian life?,2,Foreign country (Ally),1
+S32W.Q13,In what state of the United States did you spend most of the past five years of your civilian life?,1,U.S. (state not specified),102
+S32W.Q13,In what state of the United States did you spend most of the past five years of your civilian life?,0,No code or data,194
+S32W.Q13,In what state of the United States did you spend most of the past five years of your civilian life?,16,Connecticut,70
+S32W.Q13,In what state of the United States did you spend most of the past five years of your civilian life?,23,Pennsylvania,388
+S32W.Q13,In what state of the United States did you spend most of the past five years of your civilian life?,31,Ohio,236
+S32W.Q13,In what state of the United States did you spend most of the past five years of your civilian life?,11,Maine,56
+S32W.Q13,In what state of the United States did you spend most of the past five years of your civilian life?,12,New Hampshire,21
+S32W.Q13,In what state of the United States did you spend most of the past five years of your civilian life?,13,Vermont,12
+S32W.Q13,In what state of the United States did you spend most of the past five years of your civilian life?,14,Massachusetts,163
+S32W.Q13,In what state of the United States did you spend most of the past five years of your civilian life?,15,Rhode Island,25
+S32W.Q13,In what state of the United States did you spend most of the past five years of your civilian life?,21,New York,386
+S32W.Q13,In what state of the United States did you spend most of the past five years of your civilian life?,22,New Jersey,100
+S32W.Q13,In what state of the United States did you spend most of the past five years of your civilian life?,32,Indiana,186
+S32W.Q13,In what state of the United States did you spend most of the past five years of your civilian life?,33,Illinois,405
+S32W.Q13,In what state of the United States did you spend most of the past five years of your civilian life?,85,New Mexico,29
+S32W.Q13,In what state of the United States did you spend most of the past five years of your civilian life?,34,Michigan,248
+S32W.Q13,In what state of the United States did you spend most of the past five years of your civilian life?,35,Wisconsin,125
+S32W.Q13,In what state of the United States did you spend most of the past five years of your civilian life?,41,Minnesota,61
+S32W.Q13,In what state of the United States did you spend most of the past five years of your civilian life?,42,Iowa,73
+S32W.Q13,In what state of the United States did you spend most of the past five years of your civilian life?,43,Missouri,93
+S32W.Q13,In what state of the United States did you spend most of the past five years of your civilian life?,44,North Dakota,19
+S32W.Q13,In what state of the United States did you spend most of the past five years of your civilian life?,45,South Dakota,12
+S32W.Q13,In what state of the United States did you spend most of the past five years of your civilian life?,46,Nebraska,35
+S32W.Q13,In what state of the United States did you spend most of the past five years of your civilian life?,47,Kansas,26
+S32W.Q13,In what state of the United States did you spend most of the past five years of your civilian life?,51,Delaware,6
+S32W.Q13,In what state of the United States did you spend most of the past five years of your civilian life?,52,Maryland,49
+S32W.Q13,In what state of the United States did you spend most of the past five years of your civilian life?,53,District of Columbia,17
+S32W.Q13,In what state of the United States did you spend most of the past five years of your civilian life?,54,Virginia,57
+S32W.Q13,In what state of the United States did you spend most of the past five years of your civilian life?,55,West Virginia,67
+S32W.Q13,In what state of the United States did you spend most of the past five years of your civilian life?,56,North Carolina,78
+S32W.Q13,In what state of the United States did you spend most of the past five years of your civilian life?,57,South Carolina,33
+S32W.Q13,In what state of the United States did you spend most of the past five years of your civilian life?,58,Georgia,76
+S32W.Q13,In what state of the United States did you spend most of the past five years of your civilian life?,59,Florida,40
+S32W.Q13,In what state of the United States did you spend most of the past five years of your civilian life?,61,Kentucky,115
+S32W.Q13,In what state of the United States did you spend most of the past five years of your civilian life?,62,Tennessee,101
+S32W.Q13,In what state of the United States did you spend most of the past five years of your civilian life?,63,Alabama,96
+S32W.Q13,In what state of the United States did you spend most of the past five years of your civilian life?,64,Mississippi,32
+S32W.Q13,In what state of the United States did you spend most of the past five years of your civilian life?,71,Arkansas,58
+S32W.Q13,In what state of the United States did you spend most of the past five years of your civilian life?,72,Louisiana,34
+S32W.Q13,In what state of the United States did you spend most of the past five years of your civilian life?,73,Oklahoma,186
+S32W.Q13,In what state of the United States did you spend most of the past five years of your civilian life?,74,Texas,362
+S32W.Q13,In what state of the United States did you spend most of the past five years of your civilian life?,81,Montana,10
+S32W.Q13,In what state of the United States did you spend most of the past five years of your civilian life?,82,Idaho,11
+S32W.Q13,In what state of the United States did you spend most of the past five years of your civilian life?,83,Wyoming,2
+S32W.Q13,In what state of the United States did you spend most of the past five years of your civilian life?,84,Colorado,33
+S32W.Q13,In what state of the United States did you spend most of the past five years of your civilian life?,86,Arizona,12
+S32W.Q13,In what state of the United States did you spend most of the past five years of your civilian life?,87,Utah,17
+S32W.Q13,In what state of the United States did you spend most of the past five years of your civilian life?,88,Nevada,6
+S32W.Q13,In what state of the United States did you spend most of the past five years of your civilian life?,91,Washington,34
+S32W.Q13,In what state of the United States did you spend most of the past five years of your civilian life?,92,Oregon,28
+S32W.Q13,In what state of the United States did you spend most of the past five years of your civilian life?,93,California,167
+S32W.Q14,Where were you living before you entered the Army?,2,"In a small town (fewer than 2,500 people)",558
+S32W.Q14,Where were you living before you entered the Army?,1,On a farm or in the country,975
+S32W.Q14,Where were you living before you entered the Army?,3,"In a town (with between 2,500 and 25,000 people)",915
+S32W.Q14,Where were you living before you entered the Army?,4,"In a city (between 25,000 and 100,000 people)",854
+S32W.Q14,Where were you living before you entered the Army?,0,No answer,21
+S32W.Q14,Where were you living before you entered the Army?,5,"In a large city (more than 100,000 people)",1470
+S32W.Q15,Think for a minute about the different sergeants and corporals you have served with. How fair do most of them seem to be with their men?,2,About half are; half are not,1254
+S32W.Q15,Think for a minute about the different sergeants and corporals you have served with. How fair do most of them seem to be with their men?,1,Most of them are fair,3184
+S32W.Q15,Think for a minute about the different sergeants and corporals you have served with. How fair do most of them seem to be with their men?,0,No answer,22
+S32W.Q15,Think for a minute about the different sergeants and corporals you have served with. How fair do most of them seem to be with their men?,3,Most of them are not fair,279
+S32W.Q15,Think for a minute about the different sergeants and corporals you have served with. How fair do most of them seem to be with their men?,4,Undecided,54
+S32W.Q16,What is your own rank or grade?,2,Corporal or Technician 5th Grade,625
+S32W.Q16,What is your own rank or grade?,1,Private or Private First Class,3369
+S32W.Q16,What is your own rank or grade?,3,Sergeant (any grade) or Technician 3rd or 4th Grade,774
+S32W.Q16,What is your own rank or grade?,0,No code or no data,5
+S32W.Q16,What is your own rank or grade?,4,No answer,20
+S32W.Q17,"If you are a private, do you want to be a noncom?",2,No,591
+S32W.Q17,"If you are a private, do you want to be a noncom?",1,Yes,2311
+S32W.Q17,"If you are a private, do you want to be a noncom?",4,Inapplicable (already Noncom),1385
+S32W.Q17,"If you are a private, do you want to be a noncom?",0,No answer,76
+S32W.Q17,"If you are a private, do you want to be a noncom?",3,Undecided,430
+S32W.Q18,Do you want to be a commissioned officer?,2,No,1696
+S32W.Q18,Do you want to be a commissioned officer?,1,Yes,2045
+S32W.Q18,Do you want to be a commissioned officer?,4,No answer,76
+S32W.Q18,Do you want to be a commissioned officer?,0,No code or no data,8
+S32W.Q18,Do you want to be a commissioned officer?,3,Undecided,968
+S32W.Q18A.1,"(Do you want to be a commissioned officer?) If no, why not?",2,Not chosen,4540
+S32W.Q18A.1,"(Do you want to be a commissioned officer?) If no, why not?",1,Lack of education,253
+S32W.Q18A.10,"(Do you want to be a commissioned officer?) If no, why not?",2,Not chosen,4528
+S32W.Q18A.10,"(Do you want to be a commissioned officer?) If no, why not?",1,"Repetition of check list answer (I'd rather be a private or a Non-Com, I don't want to be a C.O. etc.)",265
+S32W.Q18A.11,"(Do you want to be a commissioned officer?) If no, why not?",2,Not chosen,4531
+S32W.Q18A.11,"(Do you want to be a commissioned officer?) If no, why not?",1,Other,262
+S32W.Q18A.12,"(Do you want to be a commissioned officer?) If no, why not?",2,Not chosen,1622
+S32W.Q18A.12,"(Do you want to be a commissioned officer?) If no, why not?",1,"Inapplicable, no comment",3171
+S32W.Q18A.2,"(Do you want to be a commissioned officer?) If no, why not?",2,Not chosen,4698
+S32W.Q18A.2,"(Do you want to be a commissioned officer?) If no, why not?",1,"Health, physical condition, or age disqualify",95
+S32W.Q18A.3,"(Do you want to be a commissioned officer?) If no, why not?",2,Not chosen,4770
+S32W.Q18A.3,"(Do you want to be a commissioned officer?) If no, why not?",1,"Not in Army long enough, need more experience",23
+S32W.Q18A.4,"(Do you want to be a commissioned officer?) If no, why not?",2,Not chosen,4711
+S32W.Q18A.4,"(Do you want to be a commissioned officer?) If no, why not?",1,Not good at (or don't want to) handling men or giving orders,82
+S32W.Q18A.5,"(Do you want to be a commissioned officer?) If no, why not?",2,Not chosen,4613
+S32W.Q18A.5,"(Do you want to be a commissioned officer?) If no, why not?",1,"Simple statement of ""I'm not qualified"" - but no mention of reasons why not qualified",180
+S32W.Q18A.6,"(Do you want to be a commissioned officer?) If no, why not?",2,Not chosen,4526
+S32W.Q18A.6,"(Do you want to be a commissioned officer?) If no, why not?",1,Too much responsibility or work,267
+S32W.Q18A.7,"(Do you want to be a commissioned officer?) If no, why not?",2,Not chosen,4708
+S32W.Q18A.7,"(Do you want to be a commissioned officer?) If no, why not?",1,Would lose or be limited in choice of friends because of rank,85
+S32W.Q18A.8,"(Do you want to be a commissioned officer?) If no, why not?",2,Not chosen,4659
+S32W.Q18A.8,"(Do you want to be a commissioned officer?) If no, why not?",1,"Dislike or criticism of C.O.'s, including criticism of training of C.O.'s",134
+S32W.Q18A.9,"(Do you want to be a commissioned officer?) If no, why not?",2,Not chosen,4744
+S32W.Q18A.9,"(Do you want to be a commissioned officer?) If no, why not?",1,Belief that being a C.O. means staying in Army after the war,49
+S32W.Q19,When did you come into the Army?,2,9/1/42 - 11/30/42; 3 months up to 6 months,1422
+S32W.Q19,When did you come into the Army?,1,12/1/42 - present; 3 months or less,815
+S32W.Q19,When did you come into the Army?,5,Before 3/1/41; over 2 years,453
+S32W.Q19,When did you come into the Army?,4,3/1/41 - 2/28/42; 1 year up to 2 years,752
+S32W.Q19,When did you come into the Army?,3,3/1/42 - 8/31/42; 6 months up to 1 year,1279
+S32W.Q19,When did you come into the Army?,0,No answer,72
+S32W.Q2,How far did you go in school?,2,Finished 4th grade,67
+S32W.Q2,How far did you go in school?,1,Less than 4th grade,64
+S32W.Q2,How far did you go in school?,4,Finished 6th grade,181
+S32W.Q2,How far did you go in school?,0,No answer,15
+S32W.Q2,How far did you go in school?,3,Finished 5th grade,107
+S32W.Q2,How far did you go in school?,5,Finished 7th grade,317
+S32W.Q2,How far did you go in school?,6,Finished 8th grade,815
+S32W.Q2,How far did you go in school?,7,Some high school or trade school,1241
+S32W.Q2,How far did you go in school?,8,Graduated from high school,1328
+S32W.Q2,How far did you go in school?,9,Some college but did not finish,513
+S32W.Q2,How far did you go in school?,10,Graduated from college,145
+S32W.Q20,How interested are you in your Army job?,2,A little but not much,1225
+S32W.Q20,How interested are you in your Army job?,1,Very much interested,3064
+S32W.Q20,How interested are you in your Army job?,0,No code or no data,2
+S32W.Q20,How interested are you in your Army job?,3,Not interested at all,450
+S32W.Q20,How interested are you in your Army job?,4,No answer,52
+S32W.Q21,"What is your main Army job or duty? (What is your job called? For example, rifleman, orderly, stock clerk, electrician, or what?)",2,Non-combat - professional and clerical,974
+S32W.Q21,"What is your main Army job or duty? (What is your job called? For example, rifleman, orderly, stock clerk, electrician, or what?)",1,Combat jobs,910
+S32W.Q21,"What is your main Army job or duty? (What is your job called? For example, rifleman, orderly, stock clerk, electrician, or what?)",3,Non-combat - skilled,1139
+S32W.Q21,"What is your main Army job or duty? (What is your job called? For example, rifleman, orderly, stock clerk, electrician, or what?)",8,No answer,328
+S32W.Q21,"What is your main Army job or duty? (What is your job called? For example, rifleman, orderly, stock clerk, electrician, or what?)",7,Unclassified,123
+S32W.Q21,"What is your main Army job or duty? (What is your job called? For example, rifleman, orderly, stock clerk, electrician, or what?)",4,"Non-combat - semi-skilled, unskilled",987
+S32W.Q21,"What is your main Army job or duty? (What is your job called? For example, rifleman, orderly, stock clerk, electrician, or what?)",0,No code or no data,3
+S32W.Q21,"What is your main Army job or duty? (What is your job called? For example, rifleman, orderly, stock clerk, electrician, or what?)",5,Combat and technical,276
+S32W.Q21,"What is your main Army job or duty? (What is your job called? For example, rifleman, orderly, stock clerk, electrician, or what?)",6,Basic training,53
+S32W.Q22,"Do the men in your company or battery cooperate, and work well together?",2,"Yes, most of the time",2937
+S32W.Q22,"Do the men in your company or battery cooperate, and work well together?",1,"Yes, all of the time",1100
+S32W.Q22,"Do the men in your company or battery cooperate, and work well together?",0,No code or no data,3
+S32W.Q22,"Do the men in your company or battery cooperate, and work well together?",3,"No, often do not",513
+S32W.Q22,"Do the men in your company or battery cooperate, and work well together?",4,"No, almost never do",131
+S32W.Q22,"Do the men in your company or battery cooperate, and work well together?",5,Undecided,88
+S32W.Q22,"Do the men in your company or battery cooperate, and work well together?",6,No answer,21
+S32W.Q23,"In general, what sort of a time do you have in the Army?",2,It is about fifty-fifty,2572
+S32W.Q23,"In general, what sort of a time do you have in the Army?",1,I have a pretty good time,1616
+S32W.Q23,"In general, what sort of a time do you have in the Army?",3,I have a pretty rotten time,576
+S32W.Q23,"In general, what sort of a time do you have in the Army?",0,No code or no data,2
+S32W.Q23,"In general, what sort of a time do you have in the Army?",4,No answer,27
+S32W.Q24,Do you usually feel that what you are doing in the Army is worthwhile or not?,2,I usually feel it is worthwhile,3193
+S32W.Q24,Do you usually feel that what you are doing in the Army is worthwhile or not?,1,I usually feel it is not worthwhile,1009
+S32W.Q24,Do you usually feel that what you are doing in the Army is worthwhile or not?,3,Undecided,556
+S32W.Q24,Do you usually feel that what you are doing in the Army is worthwhile or not?,0,No code or no data,2
+S32W.Q24,Do you usually feel that what you are doing in the Army is worthwhile or not?,4,No answer,33
+S32W.Q25,Do you feel proud of your company or battery?,2,"Yes, fairly proud",1572
+S32W.Q25,Do you feel proud of your company or battery?,1,"Yes, very proud",2411
+S32W.Q25,Do you feel proud of your company or battery?,3,"No, not proud",512
+S32W.Q25,Do you feel proud of your company or battery?,0,No code or no data,2
+S32W.Q25,Do you feel proud of your company or battery?,4,Undecided,271
+S32W.Q25,Do you feel proud of your company or battery?,5,No answer,25
+S32W.Q26,Are you ever worried and upset?,2,I am sometimes,2698
+S32W.Q26,Are you ever worried and upset?,1,I am hardly ever worried and upset,1372
+S32W.Q26,Are you ever worried and upset?,3,I am often worried and upset,697
+S32W.Q26,Are you ever worried and upset?,0,No code or no data,2
+S32W.Q26,Are you ever worried and upset?,4,No answer,24
+S32W.Q27,Do you think you can make good in the Army?,2,I am not so sure I can make good,1034
+S32W.Q27,Do you think you can make good in the Army?,1,I feel pretty sure I can make good,3294
+S32W.Q27,Do you think you can make good in the Army?,3,Undecided,427
+S32W.Q27,Do you think you can make good in the Army?,0,No code or no data,2
+S32W.Q27,Do you think you can make good in the Army?,4,No answer,36
+S32W.Q28,"How would you say you felt most of the time, satisfied and in good spirits or dissatisfied and in low spirits?",2,I am up half the time and down half the time,2156
+S32W.Q28,"How would you say you felt most of the time, satisfied and in good spirits or dissatisfied and in low spirits?",1,Satisfied and in good spirits,2112
+S32W.Q28,"How would you say you felt most of the time, satisfied and in good spirits or dissatisfied and in low spirits?",3,Dissatisfied and in low spirits,484
+S32W.Q28,"How would you say you felt most of the time, satisfied and in good spirits or dissatisfied and in low spirits?",0,No code or no data,2
+S32W.Q28,"How would you say you felt most of the time, satisfied and in good spirits or dissatisfied and in low spirits?",4,No answer,39
+S32W.Q29,How much longer do you think this war will last?,2,One year,663
+S32W.Q29,How much longer do you think this war will last?,1,"Less than a year, ""1943""",640
+S32W.Q29,How much longer do you think this war will last?,5,"Over two to less than three years, ""1945""",322
+S32W.Q29,How much longer do you think this war will last?,11,"Don't know, undecided",576
+S32W.Q29,How much longer do you think this war will last?,12,No answer,314
+S32W.Q29,How much longer do you think this war will last?,10,Indefinite answer with no indication of time (will last until we stop it),119
+S32W.Q29,How much longer do you think this war will last?,4,Two years,752
+S32W.Q29,How much longer do you think this war will last?,3,"Over one to less than two years, ""1944""",918
+S32W.Q29,How much longer do you think this war will last?,7,Over three years,224
+S32W.Q29,How much longer do you think this war will last?,0,No code or no data,2
+S32W.Q29,How much longer do you think this war will last?,6,Three years,178
+S32W.Q29,How much longer do you think this war will last?,8,Indefinite answer indicating a short time (not long),44
+S32W.Q29,How much longer do you think this war will last?,9,Indefinite answer indicating a long time (several years yet),41
+S32W.Q3,How did you come into the Army?,2,I volunteered,1180
+S32W.Q3,How did you come into the Army?,1,I was drafted,3370
+S32W.Q3,How did you come into the Army?,0,No answer,80
+S32W.Q3,How did you come into the Army?,3,I was in the National Guard,163
+S32W.Q30,"If it were up to you, what kind of outfit would you rather be in?",2,In a non-combat outfit overseas,711
+S32W.Q30,"If it were up to you, what kind of outfit would you rather be in?",1,In a combat outfit overseas,1964
+S32W.Q30,"If it were up to you, what kind of outfit would you rather be in?",3,In an outfit that will stay in the United States,2021
+S32W.Q30,"If it were up to you, what kind of outfit would you rather be in?",4,No answer,95
+S32W.Q30,"If it were up to you, what kind of outfit would you rather be in?",0,No code or no data,2
+S32W.Q31,"If your outfit went overseas, would you rather have an actual fighting job or have some other job?",2,I would rather have some other job,1594
+S32W.Q31,"If your outfit went overseas, would you rather have an actual fighting job or have some other job?",1,I would rather have an actual fighting job,2402
+S32W.Q31,"If your outfit went overseas, would you rather have an actual fighting job or have some other job?",3,Undecided,745
+S32W.Q31,"If your outfit went overseas, would you rather have an actual fighting job or have some other job?",0,No code or no data,2
+S32W.Q31,"If your outfit went overseas, would you rather have an actual fighting job or have some other job?",4,No answer,50
+S32W.Q32,"If it were up to you to choose, do you think you could do more for your country as a soldier or as a worker in a war job?",2,As a war worker,2258
+S32W.Q32,"If it were up to you to choose, do you think you could do more for your country as a soldier or as a worker in a war job?",1,As a soldier,1942
+S32W.Q32,"If it were up to you to choose, do you think you could do more for your country as a soldier or as a worker in a war job?",0,No code or no data,2
+S32W.Q32,"If it were up to you to choose, do you think you could do more for your country as a soldier or as a worker in a war job?",3,Undecided,552
+S32W.Q32,"If it were up to you to choose, do you think you could do more for your country as a soldier or as a worker in a war job?",4,No answer,39
+S32W.Q33,Do you think there will be another war in the next 25 years or so?,2,No,1604
+S32W.Q33,Do you think there will be another war in the next 25 years or so?,1,Yes,1794
+S32W.Q33,Do you think there will be another war in the next 25 years or so?,3,Undecided,1349
+S32W.Q33,Do you think there will be another war in the next 25 years or so?,0,No code or no data,6
+S32W.Q33,Do you think there will be another war in the next 25 years or so?,4,No answer,40
+S32W.Q34,"If you think there will be another war, who do you think will be fighting whom?",2,Dark against light races on an international scale,42
+S32W.Q34,"If you think there will be another war, who do you think will be fighting whom?",1,Civil war or race war in U.S.,49
+S32W.Q34,"If you think there will be another war, who do you think will be fighting whom?",12,"No answer, don't know, inapplicable",2949
+S32W.Q34,"If you think there will be another war, who do you think will be fighting whom?",9,"Russia is involved, but everything else is indeterminable",212
+S32W.Q34,"If you think there will be another war, who do you think will be fighting whom?",11,Unclassifiable combinations,322
+S32W.Q34,"If you think there will be another war, who do you think will be fighting whom?",8,"World War III - any line up like World Wars I and II (same set up as last time, those defeated now fighting the winners)",318
+S32W.Q34,"If you think there will be another war, who do you think will be fighting whom?",6,Russia with no allies against any other nation or combination of nations,795
+S32W.Q34,"If you think there will be another war, who do you think will be fighting whom?",3,"Russia with dark allies only (China, Japan, Africa, India) against any other nation or combination of nations",29
+S32W.Q34,"If you think there will be another war, who do you think will be fighting whom?",4,Russia with one or more of Axis nations besides Japan against any other nation or combination of nations,32
+S32W.Q34,"If you think there will be another war, who do you think will be fighting whom?",5,Russia with one or more of allied nations besides China against any other nation or combination of nations,24
+S32W.Q34,"If you think there will be another war, who do you think will be fighting whom?",7,Communism vs. capitalism,5
+S32W.Q34,"If you think there will be another war, who do you think will be fighting whom?",10,Race war but whether U.S. or international not stated,16
+S32W.Q35,"Up to now, has the war made things better or worse for your family and friends back home (such things as jobs, pay, and living conditions)?",2,"Things are a little better, but not much",762
+S32W.Q35,"Up to now, has the war made things better or worse for your family and friends back home (such things as jobs, pay, and living conditions)?",1,Things are a lot better,509
+S32W.Q35,"Up to now, has the war made things better or worse for your family and friends back home (such things as jobs, pay, and living conditions)?",5,Things are a lot worse,974
+S32W.Q35,"Up to now, has the war made things better or worse for your family and friends back home (such things as jobs, pay, and living conditions)?",4,Things are a little worse,1469
+S32W.Q35,"Up to now, has the war made things better or worse for your family and friends back home (such things as jobs, pay, and living conditions)?",6,Don't know,347
+S32W.Q35,"Up to now, has the war made things better or worse for your family and friends back home (such things as jobs, pay, and living conditions)?",3,I don't see any difference,695
+S32W.Q35,"Up to now, has the war made things better or worse for your family and friends back home (such things as jobs, pay, and living conditions)?",0,No answer,37
+S32W.Q36,Are you:,2,Single and engaged,735
+S32W.Q36,Are you:,1,"Single, and not engaged",2383
+S32W.Q36,Are you:,3,Married,1398
+S32W.Q36,Are you:,0,No code or no data,3
+S32W.Q36,Are you:,4,Divorced,139
+S32W.Q36,Are you:,5,Separated (before you went into the Army),75
+S32W.Q36,Are you:,6,Widowed,16
+S32W.Q36,Are you:,7,No answer,44
+S32W.Q37,Were you married before or after entering the Army?,2,Married before entering the Army,1030
+S32W.Q37,Were you married before or after entering the Army?,1,I'm not married,3285
+S32W.Q37,Were you married before or after entering the Army?,3,Married after entering the Army,448
+S32W.Q37,Were you married before or after entering the Army?,4,No answer,28
+S32W.Q37,Were you married before or after entering the Army?,0,No code or no data,2
+S32W.Q38,How many children do you have?,2,Have no children,1097
+S32W.Q38,How many children do you have?,1,I'm not married,3133
+S32W.Q38,How many children do you have?,4,Have two children,98
+S32W.Q38,How many children do you have?,3,Have one child,371
+S32W.Q38,How many children do you have?,6,No answer,39
+S32W.Q38,How many children do you have?,5,Have three or more children,52
+S32W.Q38,How many children do you have?,0,No code or no data,3
+S32W.Q39,Is your wife now expecting a baby?,2,Yes,245
+S32W.Q39,Is your wife now expecting a baby?,1,I'm not married,3289
+S32W.Q39,Is your wife now expecting a baby?,3,No,1054
+S32W.Q39,Is your wife now expecting a baby?,4,Don't know,157
+S32W.Q39,Is your wife now expecting a baby?,5,No answer,43
+S32W.Q39,Is your wife now expecting a baby?,0,No code or no data,5
+S32W.Q4,"What branch of the service are you in? (If your branch is not listed, write it out.)",2,Engineers,302
+S32W.Q4,"What branch of the service are you in? (If your branch is not listed, write it out.)",4,Field Artillery,666
+S32W.Q4,"What branch of the service are you in? (If your branch is not listed, write it out.)",11,Air Corps,1365
+S32W.Q4,"What branch of the service are you in? (If your branch is not listed, write it out.)",0,No answer,4
+S32W.Q4,"What branch of the service are you in? (If your branch is not listed, write it out.)",3,Infantry,627
+S32W.Q4,"What branch of the service are you in? (If your branch is not listed, write it out.)",5,Signal Corps,262
+S32W.Q4,"What branch of the service are you in? (If your branch is not listed, write it out.)",6,Medical Corps,585
+S32W.Q4,"What branch of the service are you in? (If your branch is not listed, write it out.)",7,Ordnance Department,249
+S32W.Q4,"What branch of the service are you in? (If your branch is not listed, write it out.)",8,Quartermaster Corps,264
+S32W.Q4,"What branch of the service are you in? (If your branch is not listed, write it out.)",10,Chemical Warfare,65
+S32W.Q4,"What branch of the service are you in? (If your branch is not listed, write it out.)",12,D.E.M.L.,211
+S32W.Q4,"What branch of the service are you in? (If your branch is not listed, write it out.)",13,Station Complement,2
+S32W.Q4,"What branch of the service are you in? (If your branch is not listed, write it out.)",14,Finance Office,2
+S32W.Q4,"What branch of the service are you in? (If your branch is not listed, write it out.)",15,Military Police,189
+S32W.Q40,Do you think that after the war soldiers in your outfit will find it easier or harder to get jobs than they did before the war?,2,About the same,933
+S32W.Q40,Do you think that after the war soldiers in your outfit will find it easier or harder to get jobs than they did before the war?,1,Easier than before the war,595
+S32W.Q40,Do you think that after the war soldiers in your outfit will find it easier or harder to get jobs than they did before the war?,3,Harder than before the war,2785
+S32W.Q40,Do you think that after the war soldiers in your outfit will find it easier or harder to get jobs than they did before the war?,4,Undecided,435
+S32W.Q40,Do you think that after the war soldiers in your outfit will find it easier or harder to get jobs than they did before the war?,0,No answer,45
+S32W.Q41,Do you think that after the war the training you are getting in the Army will or will not help you to get a better job than you had before you went in the Army?,2,Will not help me to get a better job,2061
+S32W.Q41,Do you think that after the war the training you are getting in the Army will or will not help you to get a better job than you had before you went in the Army?,1,Will help me to get a better job,1848
+S32W.Q41,Do you think that after the war the training you are getting in the Army will or will not help you to get a better job than you had before you went in the Army?,3,Undecided,835
+S32W.Q41,Do you think that after the war the training you are getting in the Army will or will not help you to get a better job than you had before you went in the Army?,0,No answer,49
+S32W.Q42,Do you think this war is as much your affair as it is anybody else's?,2,No,194
+S32W.Q42,Do you think this war is as much your affair as it is anybody else's?,1,Yes,4266
+S32W.Q42,Do you think this war is as much your affair as it is anybody else's?,3,Undecided,279
+S32W.Q42,Do you think this war is as much your affair as it is anybody else's?,0,No answer,54
+S32W.Q42A,Why or why not? E. Codes 01-04 emphasize nations' or humanity's stake in the war; codes 05-06 emphasize the individual's stake in the war.,2,"Yes, clear statement of idealistic aims (we are fighting for freedom, to bring liberty to all peoples)",144
+S32W.Q42A,Why or why not? E. Codes 01-04 emphasize nations' or humanity's stake in the war; codes 05-06 emphasize the individual's stake in the war.,1,"Yes, clear statement of patriotism (this is my country, I am an American, I am a citizen, to protect my country)",1060
+S32W.Q42A,Why or why not? E. Codes 01-04 emphasize nations' or humanity's stake in the war; codes 05-06 emphasize the individual's stake in the war.,9,"Yes, no comment",964
+S32W.Q42A,Why or why not? E. Codes 01-04 emphasize nations' or humanity's stake in the war; codes 05-06 emphasize the individual's stake in the war.,8,"Yes, unclassified answer",359
+S32W.Q42A,Why or why not? E. Codes 01-04 emphasize nations' or humanity's stake in the war; codes 05-06 emphasize the individual's stake in the war.,7,"Yes, statement emphasizing that this is a collective enterprise (this is total war, everyone must do his share, if we are to have solidarity, everyone must consider it his affair)",527
+S32W.Q42A,Why or why not? E. Codes 01-04 emphasize nations' or humanity's stake in the war; codes 05-06 emphasize the individual's stake in the war.,10,"No, political or isolationist answer (we wouldn't be in it except for the big shots in Washington, D.C., this is a rich man's war, let the British fight their own war, the people didn't start this war)",85
+S32W.Q42A,Why or why not? E. Codes 01-04 emphasize nations' or humanity's stake in the war; codes 05-06 emphasize the individual's stake in the war.,17,"Undecided, no comment",234
+S32W.Q42A,Why or why not? E. Codes 01-04 emphasize nations' or humanity's stake in the war; codes 05-06 emphasize the individual's stake in the war.,14,"No, no comment",59
+S32W.Q42A,Why or why not? E. Codes 01-04 emphasize nations' or humanity's stake in the war; codes 05-06 emphasize the individual's stake in the war.,5,"Yes (I have children, a wife, relatives, people to protect)",100
+S32W.Q42A,Why or why not? E. Codes 01-04 emphasize nations' or humanity's stake in the war; codes 05-06 emphasize the individual's stake in the war.,3,"Yes, statement in defense of status quo of nation (to protect what we have, our way of life is threatened)",922
+S32W.Q42A,Why or why not? E. Codes 01-04 emphasize nations' or humanity's stake in the war; codes 05-06 emphasize the individual's stake in the war.,11,No (don't know what war's about),3
+S32W.Q42A,Why or why not? E. Codes 01-04 emphasize nations' or humanity's stake in the war; codes 05-06 emphasize the individual's stake in the war.,4,Yes (we are attacked),86
+S32W.Q42A,Why or why not? E. Codes 01-04 emphasize nations' or humanity's stake in the war; codes 05-06 emphasize the individual's stake in the war.,0,No code or no data,12
+S32W.Q42A,Why or why not? E. Codes 01-04 emphasize nations' or humanity's stake in the war; codes 05-06 emphasize the individual's stake in the war.,6,"Yes (I am involved in it, I am in the Army, I was drafted, I am in it)",97
+S32W.Q42A,Why or why not? E. Codes 01-04 emphasize nations' or humanity's stake in the war; codes 05-06 emphasize the individual's stake in the war.,12,"No, sore at the draft (I should never have been drafted, I have flat feet, my family needs me, I was unfairly drafted)",14
+S32W.Q42A,Why or why not? E. Codes 01-04 emphasize nations' or humanity's stake in the war; codes 05-06 emphasize the individual's stake in the war.,13,"No, unclassified answers",38
+S32W.Q42A,Why or why not? E. Codes 01-04 emphasize nations' or humanity's stake in the war; codes 05-06 emphasize the individual's stake in the war.,15,"Undecided, political or isolationist comment",10
+S32W.Q42A,Why or why not? E. Codes 01-04 emphasize nations' or humanity's stake in the war; codes 05-06 emphasize the individual's stake in the war.,16,"Undecided, other comments",28
+S32W.Q42A,Why or why not? E. Codes 01-04 emphasize nations' or humanity's stake in the war; codes 05-06 emphasize the individual's stake in the war.,18,No answer to Q.42,51
+S32W.Q43,How do you think this war will come out?,2,"We will win, but it won't be a complete victory",1565
+S32W.Q43,How do you think this war will come out?,1,It will be a complete victory for us,2863
+S32W.Q43,How do you think this war will come out?,5,Undecided,230
+S32W.Q43,How do you think this war will come out?,0,No code or no data,1
+S32W.Q43,How do you think this war will come out?,3,It will end in a draw,42
+S32W.Q43,How do you think this war will come out?,4,The other side has a pretty good chance of winning,38
+S32W.Q43,How do you think this war will come out?,6,No answer,54
+S32W.Q44,After the war do you think that you yourself will have more rights and privileges or less rights and privileges than you had before the war?,2,Less rights and privileges than before the war,911
+S32W.Q44,After the war do you think that you yourself will have more rights and privileges or less rights and privileges than you had before the war?,1,More rights and privileges than before the war,907
+S32W.Q44,After the war do you think that you yourself will have more rights and privileges or less rights and privileges than you had before the war?,3,About the same as before the war,2620
+S32W.Q44,After the war do you think that you yourself will have more rights and privileges or less rights and privileges than you had before the war?,4,Undecided,311
+S32W.Q44,After the war do you think that you yourself will have more rights and privileges or less rights and privileges than you had before the war?,5,No answer,42
+S32W.Q44,After the war do you think that you yourself will have more rights and privileges or less rights and privileges than you had before the war?,0,No code or no data,2
+S32W.Q45,Do you think that one of the things the United States is fighting for is to give everybody a fair chance to make a decent living?,2,No,539
+S32W.Q45,Do you think that one of the things the United States is fighting for is to give everybody a fair chance to make a decent living?,1,Yes,3886
+S32W.Q45,Do you think that one of the things the United States is fighting for is to give everybody a fair chance to make a decent living?,3,Undecided,315
+S32W.Q45,Do you think that one of the things the United States is fighting for is to give everybody a fair chance to make a decent living?,0,No code or no data,2
+S32W.Q45,Do you think that one of the things the United States is fighting for is to give everybody a fair chance to make a decent living?,4,No answer,51
+S32W.Q46,Do you think that the United States is fighting mainly for the benefit of the rich people in this country?,2,No,3433
+S32W.Q46,Do you think that the United States is fighting mainly for the benefit of the rich people in this country?,1,Yes,686
+S32W.Q46,Do you think that the United States is fighting mainly for the benefit of the rich people in this country?,3,Undecided,604
+S32W.Q46,Do you think that the United States is fighting mainly for the benefit of the rich people in this country?,4,No answer,68
+S32W.Q46,Do you think that the United States is fighting mainly for the benefit of the rich people in this country?,0,No code or no data,2
+S32W.Q47,Do you think that one of the things the United States is fighting for is to protect the right of free speech for everyone?,2,No,239
+S32W.Q47,Do you think that one of the things the United States is fighting for is to protect the right of free speech for everyone?,1,Yes,4286
+S32W.Q47,Do you think that one of the things the United States is fighting for is to protect the right of free speech for everyone?,3,Undecided,223
+S32W.Q47,Do you think that one of the things the United States is fighting for is to protect the right of free speech for everyone?,0,No answer,45
+S32W.Q48,"If Germany and Japan were to offer to stop fighting now and to give up the countries they have taken over, do you think we should talk peace with them or not?",2,We should keep on fighting until they are crushed,3511
+S32W.Q48,"If Germany and Japan were to offer to stop fighting now and to give up the countries they have taken over, do you think we should talk peace with them or not?",1,We should talk peace now,873
+S32W.Q48,"If Germany and Japan were to offer to stop fighting now and to give up the countries they have taken over, do you think we should talk peace with them or not?",3,Undecided,354
+S32W.Q48,"If Germany and Japan were to offer to stop fighting now and to give up the countries they have taken over, do you think we should talk peace with them or not?",0,No answer,55
+S32W.Q49,Do you think a soldier with ability has a good chance for promotion in the Army?,2,A fairly good chance,1844
+S32W.Q49,Do you think a soldier with ability has a good chance for promotion in the Army?,1,A very good chance,2331
+S32W.Q49,Do you think a soldier with ability has a good chance for promotion in the Army?,3,Not much of a chance,393
+S32W.Q49,Do you think a soldier with ability has a good chance for promotion in the Army?,5,Undecided,117
+S32W.Q49,Do you think a soldier with ability has a good chance for promotion in the Army?,4,No chance at all,58
+S32W.Q49,Do you think a soldier with ability has a good chance for promotion in the Army?,0,No code or no data,2
+S32W.Q49,Do you think a soldier with ability has a good chance for promotion in the Army?,6,No answer,48
+S32W.Q5.1,"If you could have a free chance to choose your branch of service now, which one would you rather be in? (If the branch you would choose is not listed, write it out.)",2,Not chosen,4684
+S32W.Q5.1,"If you could have a free chance to choose your branch of service now, which one would you rather be in? (If the branch you would choose is not listed, write it out.)",1,Cavalry,109
+S32W.Q5.10,"If you could have a free chance to choose your branch of service now, which one would you rather be in? (If the branch you would choose is not listed, write it out.)",2,Not chosen,4754
+S32W.Q5.10,"If you could have a free chance to choose your branch of service now, which one would you rather be in? (If the branch you would choose is not listed, write it out.)",1,Chemical Warfare,39
+S32W.Q5.11,"If you could have a free chance to choose your branch of service now, which one would you rather be in? (If the branch you would choose is not listed, write it out.)",2,Not chosen,2641
+S32W.Q5.11,"If you could have a free chance to choose your branch of service now, which one would you rather be in? (If the branch you would choose is not listed, write it out.)",1,Air Corps,2152
+S32W.Q5.12,"If you could have a free chance to choose your branch of service now, which one would you rather be in? (If the branch you would choose is not listed, write it out.)",2,Not chosen,4760
+S32W.Q5.12,"If you could have a free chance to choose your branch of service now, which one would you rather be in? (If the branch you would choose is not listed, write it out.)",1,D.E.M.L.,33
+S32W.Q5.13,"If you could have a free chance to choose your branch of service now, which one would you rather be in? (If the branch you would choose is not listed, write it out.)",2,Not chosen,4791
+S32W.Q5.13,"If you could have a free chance to choose your branch of service now, which one would you rather be in? (If the branch you would choose is not listed, write it out.)",1,Tank Destroyer,2
+S32W.Q5.14,"If you could have a free chance to choose your branch of service now, which one would you rather be in? (If the branch you would choose is not listed, write it out.)",2,Not chosen,4792
+S32W.Q5.14,"If you could have a free chance to choose your branch of service now, which one would you rather be in? (If the branch you would choose is not listed, write it out.)",1,Air Base security,1
+S32W.Q5.15,"If you could have a free chance to choose your branch of service now, which one would you rather be in? (If the branch you would choose is not listed, write it out.)",2,Not chosen,4773
+S32W.Q5.15,"If you could have a free chance to choose your branch of service now, which one would you rather be in? (If the branch you would choose is not listed, write it out.)",1,Finance Office,20
+S32W.Q5.16,"If you could have a free chance to choose your branch of service now, which one would you rather be in? (If the branch you would choose is not listed, write it out.)",2,Not chosen,4732
+S32W.Q5.16,"If you could have a free chance to choose your branch of service now, which one would you rather be in? (If the branch you would choose is not listed, write it out.)",1,Military Police,61
+S32W.Q5.17,"If you could have a free chance to choose your branch of service now, which one would you rather be in? (If the branch you would choose is not listed, write it out.)",2,Not chosen,4744
+S32W.Q5.17,"If you could have a free chance to choose your branch of service now, which one would you rather be in? (If the branch you would choose is not listed, write it out.)",1,Coast Artillery,49
+S32W.Q5.18,"If you could have a free chance to choose your branch of service now, which one would you rather be in? (If the branch you would choose is not listed, write it out.)",2,Not chosen,4742
+S32W.Q5.18,"If you could have a free chance to choose your branch of service now, which one would you rather be in? (If the branch you would choose is not listed, write it out.)",1,"Different arm of military service, not Army",51
+S32W.Q5.19,"If you could have a free chance to choose your branch of service now, which one would you rather be in? (If the branch you would choose is not listed, write it out.)",2,Not chosen,4719
+S32W.Q5.19,"If you could have a free chance to choose your branch of service now, which one would you rather be in? (If the branch you would choose is not listed, write it out.)",1,Other branches,74
+S32W.Q5.2,"If you could have a free chance to choose your branch of service now, which one would you rather be in? (If the branch you would choose is not listed, write it out.)",2,Not chosen,4621
+S32W.Q5.2,"If you could have a free chance to choose your branch of service now, which one would you rather be in? (If the branch you would choose is not listed, write it out.)",1,Engineers,172
+S32W.Q5.20,"If you could have a free chance to choose your branch of service now, which one would you rather be in? (If the branch you would choose is not listed, write it out.)",2,Not chosen,4663
+S32W.Q5.20,"If you could have a free chance to choose your branch of service now, which one would you rather be in? (If the branch you would choose is not listed, write it out.)",1,No answer to Q.5,130
+S32W.Q5.3,"If you could have a free chance to choose your branch of service now, which one would you rather be in? (If the branch you would choose is not listed, write it out.)",2,Not chosen,4644
+S32W.Q5.3,"If you could have a free chance to choose your branch of service now, which one would you rather be in? (If the branch you would choose is not listed, write it out.)",1,Infantry,149
+S32W.Q5.4,"If you could have a free chance to choose your branch of service now, which one would you rather be in? (If the branch you would choose is not listed, write it out.)",2,Not chosen,4452
+S32W.Q5.4,"If you could have a free chance to choose your branch of service now, which one would you rather be in? (If the branch you would choose is not listed, write it out.)",1,Field Artillery,341
+S32W.Q5.5,"If you could have a free chance to choose your branch of service now, which one would you rather be in? (If the branch you would choose is not listed, write it out.)",2,Not chosen,4573
+S32W.Q5.5,"If you could have a free chance to choose your branch of service now, which one would you rather be in? (If the branch you would choose is not listed, write it out.)",1,Signal Corps,220
+S32W.Q5.6,"If you could have a free chance to choose your branch of service now, which one would you rather be in? (If the branch you would choose is not listed, write it out.)",2,Not chosen,4552
+S32W.Q5.6,"If you could have a free chance to choose your branch of service now, which one would you rather be in? (If the branch you would choose is not listed, write it out.)",1,Medical Corps,241
+S32W.Q5.7,"If you could have a free chance to choose your branch of service now, which one would you rather be in? (If the branch you would choose is not listed, write it out.)",2,Not chosen,4415
+S32W.Q5.7,"If you could have a free chance to choose your branch of service now, which one would you rather be in? (If the branch you would choose is not listed, write it out.)",1,Ordnance Department,378
+S32W.Q5.8,"If you could have a free chance to choose your branch of service now, which one would you rather be in? (If the branch you would choose is not listed, write it out.)",2,Not chosen,4292
+S32W.Q5.8,"If you could have a free chance to choose your branch of service now, which one would you rather be in? (If the branch you would choose is not listed, write it out.)",1,Quartermaster Corps,501
+S32W.Q5.9,"If you could have a free chance to choose your branch of service now, which one would you rather be in? (If the branch you would choose is not listed, write it out.)",2,Not chosen,4661
+S32W.Q5.9,"If you could have a free chance to choose your branch of service now, which one would you rather be in? (If the branch you would choose is not listed, write it out.)",1,Armored Force (Tank Corps),132
+S32W.Q50,Do you think town police usually treat soldiers fairly or unfairly?,2,About half are; half are not,870
+S32W.Q50,Do you think town police usually treat soldiers fairly or unfairly?,1,Town police are usually fair,3466
+S32W.Q50,Do you think town police usually treat soldiers fairly or unfairly?,3,Town police are usually not fair,181
+S32W.Q50,Do you think town police usually treat soldiers fairly or unfairly?,4,Undecided,235
+S32W.Q50,Do you think town police usually treat soldiers fairly or unfairly?,0,No code or no data,2
+S32W.Q50,Do you think town police usually treat soldiers fairly or unfairly?,5,No answer,39
+S32W.Q51,Do you think M.P.'s usually treat soldiers fairly or unfairly?,2,"About half are, half are not",1747
+S32W.Q51,Do you think M.P.'s usually treat soldiers fairly or unfairly?,1,M.P.'s are usually fair,2202
+S32W.Q51,Do you think M.P.'s usually treat soldiers fairly or unfairly?,3,M.P.'s are usually not fair,611
+S32W.Q51,Do you think M.P.'s usually treat soldiers fairly or unfairly?,4,Undecided,193
+S32W.Q51,Do you think M.P.'s usually treat soldiers fairly or unfairly?,0,No code or no data,2
+S32W.Q51,Do you think M.P.'s usually treat soldiers fairly or unfairly?,5,No answer,38
+S32W.Q53,Do you think most Negroes are doing more than their share or less than their share to help win the war?,2,Doing just about their share,3197
+S32W.Q53,Do you think most Negroes are doing more than their share or less than their share to help win the war?,1,Doing more than their share,418
+S32W.Q53,Do you think most Negroes are doing more than their share or less than their share to help win the war?,4,Undecided,570
+S32W.Q53,Do you think most Negroes are doing more than their share or less than their share to help win the war?,5,No answer,54
+S32W.Q53,Do you think most Negroes are doing more than their share or less than their share to help win the war?,3,Doing less than their share,552
+S32W.Q53,Do you think most Negroes are doing more than their share or less than their share to help win the war?,0,No code or no data,2
+S32W.Q54,Do you think that most Negroes are being given a fair chance to do as much as they want to do to help win the war?,2,No,584
+S32W.Q54,Do you think that most Negroes are being given a fair chance to do as much as they want to do to help win the war?,1,Yes,3547
+S32W.Q54,Do you think that most Negroes are being given a fair chance to do as much as they want to do to help win the war?,3,Undecided,604
+S32W.Q54,Do you think that most Negroes are being given a fair chance to do as much as they want to do to help win the war?,4,No answer,53
+S32W.Q54,Do you think that most Negroes are being given a fair chance to do as much as they want to do to help win the war?,0,No code or no data,5
+S32W.Q55,Do you think most white people are doing more than their share or less than their share to help win the war?,2,Doing just about their share,2921
+S32W.Q55,Do you think most white people are doing more than their share or less than their share to help win the war?,1,Doing more than their share,969
+S32W.Q55,Do you think most white people are doing more than their share or less than their share to help win the war?,4,Undecided,235
+S32W.Q55,Do you think most white people are doing more than their share or less than their share to help win the war?,5,No answer,60
+S32W.Q55,Do you think most white people are doing more than their share or less than their share to help win the war?,3,Doing less than their share,605
+S32W.Q55,Do you think most white people are doing more than their share or less than their share to help win the war?,0,No code or no data,3
+S32W.Q56,Do you think that most Negroes in this country are pretty well satisfied or do you think most of them are dissatisfied?,2,Most are dissatisfied,597
+S32W.Q56,Do you think that most Negroes in this country are pretty well satisfied or do you think most of them are dissatisfied?,1,Most are satisfied,2677
+S32W.Q56,Do you think that most Negroes in this country are pretty well satisfied or do you think most of them are dissatisfied?,3,It is about half and half,776
+S32W.Q56,Do you think that most Negroes in this country are pretty well satisfied or do you think most of them are dissatisfied?,4,Undecided,688
+S32W.Q56,Do you think that most Negroes in this country are pretty well satisfied or do you think most of them are dissatisfied?,5,No answer,53
+S32W.Q56,Do you think that most Negroes in this country are pretty well satisfied or do you think most of them are dissatisfied?,0,No code or no data,2
+S32W.Q57,Do you think that after the war Negroes in this country will have more rights and privileges or less rights and privileges than they had before the war?,2,They will have less rights and privileges than before the war,129
+S32W.Q57,Do you think that after the war Negroes in this country will have more rights and privileges or less rights and privileges than they had before the war?,1,They will have more rights and privileges than before the war,1373
+S32W.Q57,Do you think that after the war Negroes in this country will have more rights and privileges or less rights and privileges than they had before the war?,3,About the same,2720
+S32W.Q57,Do you think that after the war Negroes in this country will have more rights and privileges or less rights and privileges than they had before the war?,4,Undecided,507
+S32W.Q57,Do you think that after the war Negroes in this country will have more rights and privileges or less rights and privileges than they had before the war?,0,No code or no data,3
+S32W.Q57,Do you think that after the war Negroes in this country will have more rights and privileges or less rights and privileges than they had before the war?,5,No answer,61
+S32W.Q57A,(Do you think that after the war Negroes in this country will have more rights and privileges or less rights and privileges than they had before the war?) why?,2,"More and idealistic, democratic answer (all men are created free and equal)",79
+S32W.Q57A,(Do you think that after the war Negroes in this country will have more rights and privileges or less rights and privileges than they had before the war?) why?,1,"More and war aims answer (that's what we're fighting for, war is being fought for human rights)",56
+S32W.Q57A,(Do you think that after the war Negroes in this country will have more rights and privileges or less rights and privileges than they had before the war?) why?,23,About the same and no comment; undecided with or without comment; no answer,1571
+S32W.Q57A,(Do you think that after the war Negroes in this country will have more rights and privileges or less rights and privileges than they had before the war?) why?,16,"About the same because of approval of or desire for status quo (we get along fine with the Negro, why change, they are still Negroes, they should be segregated)",480
+S32W.Q57A,(Do you think that after the war Negroes in this country will have more rights and privileges or less rights and privileges than they had before the war?) why?,12,More and no comment,317
+S32W.Q57A,(Do you think that after the war Negroes in this country will have more rights and privileges or less rights and privileges than they had before the war?) why?,19,About the same and an historical answer,424
+S32W.Q57A,(Do you think that after the war Negroes in this country will have more rights and privileges or less rights and privileges than they had before the war?) why?,22,About the same and some other comment,143
+S32W.Q57A,(Do you think that after the war Negroes in this country will have more rights and privileges or less rights and privileges than they had before the war?) why?,20,About the same because they're doing no more or are no better than anyone else (why gain at white's expense),156
+S32W.Q57A,(Do you think that after the war Negroes in this country will have more rights and privileges or less rights and privileges than they had before the war?) why?,3,"More as a reward for their part in the war (they will be recognized as having materially aided war, they will ask for them because they fought in the war)",287
+S32W.Q57A,(Do you think that after the war Negroes in this country will have more rights and privileges or less rights and privileges than they had before the war?) why?,4,"More and an historical answer (they're bettering themselves now, they're taking over jobs white men have left)",273
+S32W.Q57A,(Do you think that after the war Negroes in this country will have more rights and privileges or less rights and privileges than they had before the war?) why?,14,"About the same and comment implying they now have same rights as whites (in some states they have equal rights already, one man is as good as another)",169
+S32W.Q57A,(Do you think that after the war Negroes in this country will have more rights and privileges or less rights and privileges than they had before the war?) why?,18,"About the same and war has nothing to do with it attitude (they're not fighting about that, this war has nothing to do with the rights of white and colored)",192
+S32W.Q57A,(Do you think that after the war Negroes in this country will have more rights and privileges or less rights and privileges than they had before the war?) why?,9,"More but remarks critical of giving Negroes more rights (the Army is ruining them, they're getting out of their place)",110
+S32W.Q57A,(Do you think that after the war Negroes in this country will have more rights and privileges or less rights and privileges than they had before the war?) why?,13,"Less, with or without comment",125
+S32W.Q57A,(Do you think that after the war Negroes in this country will have more rights and privileges or less rights and privileges than they had before the war?) why?,21,About the same and they should be equal to whites,92
+S32W.Q57A,(Do you think that after the war Negroes in this country will have more rights and privileges or less rights and privileges than they had before the war?) why?,10,More and belief that better understanding will come through racial contacts,51
+S32W.Q57A,(Do you think that after the war Negroes in this country will have more rights and privileges or less rights and privileges than they had before the war?) why?,15,"About the same because Negroes can't be trusted with more rights (they'll get out of control, they take advantage of what they have now)",54
+S32W.Q57A,(Do you think that after the war Negroes in this country will have more rights and privileges or less rights and privileges than they had before the war?) why?,11,More and some other comment,102
+S32W.Q57A,(Do you think that after the war Negroes in this country will have more rights and privileges or less rights and privileges than they had before the war?) why?,7,"More because Negro will be more militant (the Negro is waking up, they will demand more rights)",83
+S32W.Q57A,(Do you think that after the war Negroes in this country will have more rights and privileges or less rights and privileges than they had before the war?) why?,0,No code or no data,5
+S32W.Q57A,(Do you think that after the war Negroes in this country will have more rights and privileges or less rights and privileges than they had before the war?) why?,5,More and criticisms of Southern policy toward Negroes,2
+S32W.Q57A,(Do you think that after the war Negroes in this country will have more rights and privileges or less rights and privileges than they had before the war?) why?,6,"More and statements of kinds of rights Negroes are entitled to (they should get better housing, should be able to sit anywhere)",2
+S32W.Q57A,(Do you think that after the war Negroes in this country will have more rights and privileges or less rights and privileges than they had before the war?) why?,8,More qualified by which part of Negro group should get them or setting limit to amount,8
+S32W.Q57A,(Do you think that after the war Negroes in this country will have more rights and privileges or less rights and privileges than they had before the war?) why?,17,"About the same because changes come gradually, not overnight",12
+S32W.Q58,Do you think that after the war Negroes in this country should have more rights and privileges or less rights and privileges than they had before the war?,2,Should have less,346
+S32W.Q58,Do you think that after the war Negroes in this country should have more rights and privileges or less rights and privileges than they had before the war?,1,Should have more rights and privileges,940
+S32W.Q58,Do you think that after the war Negroes in this country should have more rights and privileges or less rights and privileges than they had before the war?,3,Should have about the same,3072
+S32W.Q58,Do you think that after the war Negroes in this country should have more rights and privileges or less rights and privileges than they had before the war?,4,Undecided,359
+S32W.Q58,Do you think that after the war Negroes in this country should have more rights and privileges or less rights and privileges than they had before the war?,5,No answer,72
+S32W.Q58,Do you think that after the war Negroes in this country should have more rights and privileges or less rights and privileges than they had before the war?,0,No code or no data,4
+S32W.Q58A,(Do you think that after the war Negroes in this country should have more rights and privileges or less rights and privileges than they had before the war?) Write any comments here:,2,"More and an idealistic, democratic answer (all men are created free and equal)",250
+S32W.Q58A,(Do you think that after the war Negroes in this country should have more rights and privileges or less rights and privileges than they had before the war?) Write any comments here:,1,"More and a war aims answer (that's what we're fighting for, war is being fought for human rights)",15
+S32W.Q58A,(Do you think that after the war Negroes in this country should have more rights and privileges or less rights and privileges than they had before the war?) Write any comments here:,20,About the same and no comment; undecided - with or without comment,2643
+S32W.Q58A,(Do you think that after the war Negroes in this country should have more rights and privileges or less rights and privileges than they had before the war?) Write any comments here:,3,"More as a reward for their part in the war (they will be recognized as having materially aided war, they will ask for them because they fought in the war)",89
+S32W.Q58A,(Do you think that after the war Negroes in this country should have more rights and privileges or less rights and privileges than they had before the war?) Write any comments here:,11,More and no comment,391
+S32W.Q58A,(Do you think that after the war Negroes in this country should have more rights and privileges or less rights and privileges than they had before the war?) Write any comments here:,12,"Less, with or without comment",339
+S32W.Q58A,(Do you think that after the war Negroes in this country should have more rights and privileges or less rights and privileges than they had before the war?) Write any comments here:,15,"About the same because of approval of or desire for status quo (we get along fine with the Negro, why change, they are still Negroes, they should be segregated)",355
+S32W.Q58A,(Do you think that after the war Negroes in this country should have more rights and privileges or less rights and privileges than they had before the war?) Write any comments here:,14,"About the same because Negroes can't be trusted with more rights (they'll get out of control, they take advantage of what they have now)",160
+S32W.Q58A,(Do you think that after the war Negroes in this country should have more rights and privileges or less rights and privileges than they had before the war?) Write any comments here:,5,More and criticisms of Southern policy toward Negroes,42
+S32W.Q58A,(Do you think that after the war Negroes in this country should have more rights and privileges or less rights and privileges than they had before the war?) Write any comments here:,22,No answer to Q.58,74
+S32W.Q58A,(Do you think that after the war Negroes in this country should have more rights and privileges or less rights and privileges than they had before the war?) Write any comments here:,9,"More, qualified by which part of Negro group should get them, or setting limit to amount",55
+S32W.Q58A,(Do you think that after the war Negroes in this country should have more rights and privileges or less rights and privileges than they had before the war?) Write any comments here:,0,No code or no data,7
+S32W.Q58A,(Do you think that after the war Negroes in this country should have more rights and privileges or less rights and privileges than they had before the war?) Write any comments here:,13,"About the same and comment implying they now have same rights as whites (in some states they have equal rights already, one man is as good as another)",78
+S32W.Q58A,(Do you think that after the war Negroes in this country should have more rights and privileges or less rights and privileges than they had before the war?) Write any comments here:,4,"More and an historical answer (they're bettering themselves now, they're taking over jobs white men have left)",8
+S32W.Q58A,(Do you think that after the war Negroes in this country should have more rights and privileges or less rights and privileges than they had before the war?) Write any comments here:,19,About the same and they're doing no more than anyone else,66
+S32W.Q58A,(Do you think that after the war Negroes in this country should have more rights and privileges or less rights and privileges than they had before the war?) Write any comments here:,21,About the same and some other comment,122
+S32W.Q58A,(Do you think that after the war Negroes in this country should have more rights and privileges or less rights and privileges than they had before the war?) Write any comments here:,6,"More and statements of kinds of rights Negroes are entitled to (they should get better housing, should be able to sit anywhere)",38
+S32W.Q58A,(Do you think that after the war Negroes in this country should have more rights and privileges or less rights and privileges than they had before the war?) Write any comments here:,10,More and some other comment,46
+S32W.Q58A,(Do you think that after the war Negroes in this country should have more rights and privileges or less rights and privileges than they had before the war?) Write any comments here:,16,"About the same because changes come gradually, not overnight",2
+S32W.Q58A,(Do you think that after the war Negroes in this country should have more rights and privileges or less rights and privileges than they had before the war?) Write any comments here:,17,"About the same and war has nothing to do with it attitude (they're not fighting about that, this war has nothing to do with the rights of whites and colored)",8
+S32W.Q58A,(Do you think that after the war Negroes in this country should have more rights and privileges or less rights and privileges than they had before the war?) Write any comments here:,18,"About the same and an historical answer (South won't permit improvement, see no evidence of a change coming)",5
+S32W.Q59,Does your camp have separate PX's for Negro and white soldiers?,2,No,1028
+S32W.Q59,Does your camp have separate PX's for Negro and white soldiers?,1,Yes,2740
+S32W.Q59,Does your camp have separate PX's for Negro and white soldiers?,3,Don't know,931
+S32W.Q59,Does your camp have separate PX's for Negro and white soldiers?,4,No answer,90
+S32W.Q59,Does your camp have separate PX's for Negro and white soldiers?,0,No code or no data,4
+S32W.Q6,What kind of a chance is the Army giving you to show what you can do?,2,A fairly good chance,1639
+S32W.Q6,What kind of a chance is the Army giving you to show what you can do?,1,A very good chance,1189
+S32W.Q6,What kind of a chance is the Army giving you to show what you can do?,0,No answer,41
+S32W.Q6,What kind of a chance is the Army giving you to show what you can do?,3,Undecided,542
+S32W.Q6,What kind of a chance is the Army giving you to show what you can do?,4,Not much of a chance,944
+S32W.Q6,What kind of a chance is the Army giving you to show what you can do?,5,No chance at all,438
+S32W.Q60,Do you think it is a good idea or a poor idea for white and Negro soldiers to have separate PX's in Army camps?,2,It is a poor idea,538
+S32W.Q60,Do you think it is a good idea or a poor idea for white and Negro soldiers to have separate PX's in Army camps?,1,It is a good idea,3813
+S32W.Q60,Do you think it is a good idea or a poor idea for white and Negro soldiers to have separate PX's in Army camps?,3,Undecided,375
+S32W.Q60,Do you think it is a good idea or a poor idea for white and Negro soldiers to have separate PX's in Army camps?,4,No answer,65
+S32W.Q60,Do you think it is a good idea or a poor idea for white and Negro soldiers to have separate PX's in Army camps?,0,No code or no data,2
+S32W.Q60A,(Do you think it is a good idea or a poor idea for white and Negro soldiers to have separate PX's in Army camps?) Write any comments here:,2,"It's a good idea because intermingling would lead to violence, fights, trouble (they couldn't get along, they don't mix well)",520
+S32W.Q60A,(Do you think it is a good idea or a poor idea for white and Negro soldiers to have separate PX's in Army camps?) Write any comments here:,1,"It's a good idea out of deference to Southern customs or deference to the existence of prejudice (it's O.K. for South, but not for North, not where this camp is located)",285
+S32W.Q60A,(Do you think it is a good idea or a poor idea for white and Negro soldiers to have separate PX's in Army camps?) Write any comments here:,11,It's a good idea and no comment,2334
+S32W.Q60A,(Do you think it is a good idea or a poor idea for white and Negro soldiers to have separate PX's in Army camps?) Write any comments here:,12,"Undecided with or without comment; it's a poor idea, with or without comment; no answer to Q.60.",917
+S32W.Q60A,(Do you think it is a good idea or a poor idea for white and Negro soldiers to have separate PX's in Army camps?) Write any comments here:,3,"It's a good idea because Negroes themselves like it better that way (Negroes feel uncomfortable with whites, Negroes feel more at home with own race)",47
+S32W.Q60A,(Do you think it is a good idea or a poor idea for white and Negro soldiers to have separate PX's in Army camps?) Write any comments here:,10,It's a good idea and some other comment,77
+S32W.Q60A,(Do you think it is a good idea or a poor idea for white and Negro soldiers to have separate PX's in Army camps?) Write any comments here:,6,"It's a good idea because separation is right in principle (races should be kept separate, the Negro is O.K. on his side of the fence)",311
+S32W.Q60A,(Do you think it is a good idea or a poor idea for white and Negro soldiers to have separate PX's in Army camps?) Write any comments here:,8,"It's a good idea and criticisms of Negroes (they smell bad, they carry diseases)",69
+S32W.Q60A,(Do you think it is a good idea or a poor idea for white and Negro soldiers to have separate PX's in Army camps?) Write any comments here:,9,It's a good idea because both whites and Negroes prefer it that way,55
+S32W.Q60A,(Do you think it is a good idea or a poor idea for white and Negro soldiers to have separate PX's in Army camps?) Write any comments here:,7,"It's a good idea because I personally dislike or object to Negroes (I just don't like Negroes, I don't want to live with Negroes)",69
+S32W.Q60A,(Do you think it is a good idea or a poor idea for white and Negro soldiers to have separate PX's in Army camps?) Write any comments here:,4,"It's a good idea because whites dislike or are unwilling to associate with Negroes (don't want white women associating with Negroes, we feel better without them around)",85
+S32W.Q60A,(Do you think it is a good idea or a poor idea for white and Negro soldiers to have separate PX's in Army camps?) Write any comments here:,0,No code or no data,8
+S32W.Q60A,(Do you think it is a good idea or a poor idea for white and Negro soldiers to have separate PX's in Army camps?) Write any comments here:,5,"It's a good idea because Negroes are inferior to whites (they are not as good as whites, they should not be classed with whites)",16
+S32W.Q61,Does your camp have separate service clubs for white and Negro soldiers?,2,No,483
+S32W.Q61,Does your camp have separate service clubs for white and Negro soldiers?,1,Yes,2762
+S32W.Q61,Does your camp have separate service clubs for white and Negro soldiers?,3,Don't know,1432
+S32W.Q61,Does your camp have separate service clubs for white and Negro soldiers?,5,No answer,97
+S32W.Q61,Does your camp have separate service clubs for white and Negro soldiers?,0,No code or no data,2
+S32W.Q61,Does your camp have separate service clubs for white and Negro soldiers?,4,No Service Club (volunteered),17
+S32W.Q62,Do you think it is a good idea or a poor idea for Negro and white soldiers to have separate service clubs in Army camps?,2,It is a poor idea,322
+S32W.Q62,Do you think it is a good idea or a poor idea for Negro and white soldiers to have separate service clubs in Army camps?,1,It is a good idea,4001
+S32W.Q62,Do you think it is a good idea or a poor idea for Negro and white soldiers to have separate service clubs in Army camps?,3,Undecided,388
+S32W.Q62,Do you think it is a good idea or a poor idea for Negro and white soldiers to have separate service clubs in Army camps?,4,No answer,77
+S32W.Q62,Do you think it is a good idea or a poor idea for Negro and white soldiers to have separate service clubs in Army camps?,0,No code or no data,5
+S32W.Q62A,(Do you think it is a good idea or a poor idea for Negro and white soldiers to have separate service clubs in Army camps?) Write any comments here:,2,"It's a good idea because intermingling would lead to violence, fights, trouble (they couldn't get along, they don't mix well)",333
+S32W.Q62A,(Do you think it is a good idea or a poor idea for Negro and white soldiers to have separate service clubs in Army camps?) Write any comments here:,1,"It's a good idea out of deference to Southern customs or deference to the existence of prejudice (it's O.K. for South, but not for North, not where this is located)",178
+S32W.Q62A,(Do you think it is a good idea or a poor idea for Negro and white soldiers to have separate service clubs in Army camps?) Write any comments here:,11,It's a good idea and no comment,2810
+S32W.Q62A,(Do you think it is a good idea or a poor idea for Negro and white soldiers to have separate service clubs in Army camps?) Write any comments here:,12,"Undecided with or without comment; it's a poor idea, with or without comment; no answer to Q.62a",728
+S32W.Q62A,(Do you think it is a good idea or a poor idea for Negro and white soldiers to have separate service clubs in Army camps?) Write any comments here:,3,"It's a good idea because Negroes themselves like it better that way (Negroes feel uncomfortable with whites, Negroes feel more at home with own race)",67
+S32W.Q62A,(Do you think it is a good idea or a poor idea for Negro and white soldiers to have separate service clubs in Army camps?) Write any comments here:,10,It's a good idea and some other comment,53
+S32W.Q62A,(Do you think it is a good idea or a poor idea for Negro and white soldiers to have separate service clubs in Army camps?) Write any comments here:,6,"It's a good idea because separation is right in principle (they are different, races should be kept separate)",260
+S32W.Q62A,(Do you think it is a good idea or a poor idea for Negro and white soldiers to have separate service clubs in Army camps?) Write any comments here:,8,"It's a good idea and criticisms of Negroes (they smell bad, they carry diseases)",39
+S32W.Q62A,(Do you think it is a good idea or a poor idea for Negro and white soldiers to have separate service clubs in Army camps?) Write any comments here:,9,It's a good idea because both whites and Negroes prefer it that way,100
+S32W.Q62A,(Do you think it is a good idea or a poor idea for Negro and white soldiers to have separate service clubs in Army camps?) Write any comments here:,4,"It's a good idea because whites dislike or are unwilling to associate with Negroes (don't want white women associating with Negroes, we feel better without them around)",146
+S32W.Q62A,(Do you think it is a good idea or a poor idea for Negro and white soldiers to have separate service clubs in Army camps?) Write any comments here:,7,"It's a good idea because I personally dislike or object to Negroes (I just don't like Negroes, I don't want to live with Negroes)",54
+S32W.Q62A,(Do you think it is a good idea or a poor idea for Negro and white soldiers to have separate service clubs in Army camps?) Write any comments here:,0,No code or no data,10
+S32W.Q62A,(Do you think it is a good idea or a poor idea for Negro and white soldiers to have separate service clubs in Army camps?) Write any comments here:,5,"It's a good idea because Negroes are inferior to whites (they are not as good as whites, they should not be classed with whites)",15
+S32W.Q63,Do you think white and Negro soldiers should be in separate outfits or should they be together in the same outfits?,2,They should be together in the same outfits,148
+S32W.Q63,Do you think white and Negro soldiers should be in separate outfits or should they be together in the same outfits?,1,They should be in separate outfits,4171
+S32W.Q63,Do you think white and Negro soldiers should be in separate outfits or should they be together in the same outfits?,4,Undecided,165
+S32W.Q63,Do you think white and Negro soldiers should be in separate outfits or should they be together in the same outfits?,3,It doesn't make any difference,213
+S32W.Q63,Do you think white and Negro soldiers should be in separate outfits or should they be together in the same outfits?,5,No answer,63
+S32W.Q63,Do you think white and Negro soldiers should be in separate outfits or should they be together in the same outfits?,0,No code or no data,33
+S32W.Q63A,(Do you think white and Negro soldiers should be in separate outfits or should they be together in the same outfits?) Write any comments here:,2,"Separate outfits because intermingling would lead to violence, fights, trouble",350
+S32W.Q63A,(Do you think white and Negro soldiers should be in separate outfits or should they be together in the same outfits?) Write any comments here:,1,"Separate outfits out of deference to Southern customs (it's O.K. for South, but not for North, not where this camp is located)",168
+S32W.Q63A,(Do you think white and Negro soldiers should be in separate outfits or should they be together in the same outfits?) Write any comments here:,10,Separate outfits and no comment,2838
+S32W.Q63A,(Do you think white and Negro soldiers should be in separate outfits or should they be together in the same outfits?) Write any comments here:,12,Should be together in same outfits,589
+S32W.Q63A,(Do you think white and Negro soldiers should be in separate outfits or should they be together in the same outfits?) Write any comments here:,8,"Separate outfits and criticisms of Negroes (they smell bad, they carry diseases)",60
+S32W.Q63A,(Do you think white and Negro soldiers should be in separate outfits or should they be together in the same outfits?) Write any comments here:,3,"Separate outfits because Negroes themselves (or both Negroes and whites) like it better that way (Negroes feel uncomfortable with whites, Negroes feel more at home with own race)",95
+S32W.Q63A,(Do you think white and Negro soldiers should be in separate outfits or should they be together in the same outfits?) Write any comments here:,4,"Separate outfits because whites dislike or are unwilling to associate with Negroes (we feel better without them around, will keep whites from being embarrassed)",69
+S32W.Q63A,(Do you think white and Negro soldiers should be in separate outfits or should they be together in the same outfits?) Write any comments here:,6,"Separate outfits because separation is right in principle (races should be kept separate, the Negro is O.K. on his side of the fence)",189
+S32W.Q63A,(Do you think white and Negro soldiers should be in separate outfits or should they be together in the same outfits?) Write any comments here:,9,Separate outfits and some other comment,107
+S32W.Q63A,(Do you think white and Negro soldiers should be in separate outfits or should they be together in the same outfits?) Write any comments here:,13,No answer to Q.63 or undecided,170
+S32W.Q63A,(Do you think white and Negro soldiers should be in separate outfits or should they be together in the same outfits?) Write any comments here:,7,"Separate outfits because I personally dislike or object to Negroes (I just don't like Negroes, I don't want to live with Negroes)",79
+S32W.Q63A,(Do you think white and Negro soldiers should be in separate outfits or should they be together in the same outfits?) Write any comments here:,11,It doesn't make any difference with or without comment,57
+S32W.Q63A,(Do you think white and Negro soldiers should be in separate outfits or should they be together in the same outfits?) Write any comments here:,5,"Separate outfits because Negroes are inferior to whites (they are not as good as whites, they should not be classed with whites)",22
+S32W.Q7,How do you feel about the bus service to and from camp for the soldiers in your outfit?,2,It is fairly good,1777
+S32W.Q7,How do you feel about the bus service to and from camp for the soldiers in your outfit?,1,It is very good,698
+S32W.Q7,How do you feel about the bus service to and from camp for the soldiers in your outfit?,3,It is poor,910
+S32W.Q7,How do you feel about the bus service to and from camp for the soldiers in your outfit?,0,No answer,165
+S32W.Q7,How do you feel about the bus service to and from camp for the soldiers in your outfit?,4,It is very poor,934
+S32W.Q7,How do you feel about the bus service to and from camp for the soldiers in your outfit?,5,Don't know,309
+S32W.Q7A.1,Write any comments you have about bus service here:,2,Not chosen,3698
+S32W.Q7A.1,Write any comments you have about bus service here:,1,"Criticisms of operation (too crowded, too infrequent, too small, wait too long, schedules irregular, prices too high, etc.)",1095
+S32W.Q7A.2,Write any comments you have about bus service here:,2,Not chosen,4778
+S32W.Q7A.2,Write any comments you have about bus service here:,1,Civilians treated better than soldiers,15
+S32W.Q7A.3,Write any comments you have about bus service here:,2,Not chosen,4793
+S32W.Q7A.4,Write any comments you have about bus service here:,2,Not chosen,4788
+S32W.Q7A.4,Write any comments you have about bus service here:,1,"Whites treated better than Negroes, ""segregation"", any racial comment",5
+S32W.Q7A.5,Write any comments you have about bus service here:,2,Not chosen,4582
+S32W.Q7A.5,Write any comments you have about bus service here:,1,Merely a repetitious restatement of check-list answers (service is awful),211
+S32W.Q7A.6,Write any comments you have about bus service here:,2,Not chosen,4479
+S32W.Q7A.6,Write any comments you have about bus service here:,1,Other,314
+S32W.Q7A.7,Write any comments you have about bus service here:,2,Not chosen,1639
+S32W.Q7A.7,Write any comments you have about bus service here:,1,No comment,3154
+S32W.Q8,Do you think you might want to stay in the Army after the war?,2,"Yes, I might want to, but I'm not sure",1076
+S32W.Q8,Do you think you might want to stay in the Army after the war?,1,"Yes, I would want to very much",335
+S32W.Q8,Do you think you might want to stay in the Army after the war?,0,No answer,16
+S32W.Q8,Do you think you might want to stay in the Army after the war?,3,"No, I don't think I would want to",1293
+S32W.Q8,Do you think you might want to stay in the Army after the war?,4,"No, I would not want to at all",1432
+S32W.Q8,Do you think you might want to stay in the Army after the war?,5,Undecided,641
+S32W.Q9,After the war do you think you would like to come back to your old outfit for two weeks of Army training every year?,2,"Yes, I might want to, but I'm not sure",1134
+S32W.Q9,After the war do you think you would like to come back to your old outfit for two weeks of Army training every year?,1,"Yes, I would want to very much",1753
+S32W.Q9,After the war do you think you would like to come back to your old outfit for two weeks of Army training every year?,0,No answer,28
+S32W.Q9,After the war do you think you would like to come back to your old outfit for two weeks of Army training every year?,3,"No, I don't think I would want to",690
+S32W.Q9,After the war do you think you would like to come back to your old outfit for two weeks of Army training every year?,4,"No, I would not want to at all",780
+S32W.Q9,After the war do you think you would like to come back to your old outfit for two weeks of Army training every year?,5,Undecided,408
+S32W.V65,"Personal adjustment score E. Derived from Q.20, Q.23, Q.24, Q.26, Q.27, Q.28.",2,Score of 2,229
+S32W.V65,"Personal adjustment score E. Derived from Q.20, Q.23, Q.24, Q.26, Q.27, Q.28.",1,Score of 1,117
+S32W.V65,"Personal adjustment score E. Derived from Q.20, Q.23, Q.24, Q.26, Q.27, Q.28.",4,Score of 4,277
+S32W.V65,"Personal adjustment score E. Derived from Q.20, Q.23, Q.24, Q.26, Q.27, Q.28.",5,Score of 5,420
+S32W.V65,"Personal adjustment score E. Derived from Q.20, Q.23, Q.24, Q.26, Q.27, Q.28.",9,No code or no data,2462
+S32W.V65,"Personal adjustment score E. Derived from Q.20, Q.23, Q.24, Q.26, Q.27, Q.28.",0,Score of 0,401
+S32W.V65,"Personal adjustment score E. Derived from Q.20, Q.23, Q.24, Q.26, Q.27, Q.28.",6,Score of 6,438
+S32W.V65,"Personal adjustment score E. Derived from Q.20, Q.23, Q.24, Q.26, Q.27, Q.28.",3,Score of 3,449
+S32W.V66,"Score: gripe items: E. Derived from Q.6, Q.15, Q.22, Q.25, Q.49.",2,Score of 2,1054
+S32W.V66,"Score: gripe items: E. Derived from Q.6, Q.15, Q.22, Q.25, Q.49.",1,Score of 1,1095
+S32W.V66,"Score: gripe items: E. Derived from Q.6, Q.15, Q.22, Q.25, Q.49.",3,Score of 3,929
+S32W.V66,"Score: gripe items: E. Derived from Q.6, Q.15, Q.22, Q.25, Q.49.",4,Score of 4,707
+S32W.V66,"Score: gripe items: E. Derived from Q.6, Q.15, Q.22, Q.25, Q.49.",0,Score of 0,684
+S32W.V66,"Score: gripe items: E. Derived from Q.6, Q.15, Q.22, Q.25, Q.49.",5,Score of 5,320
+S32W.V66,"Score: gripe items: E. Derived from Q.6, Q.15, Q.22, Q.25, Q.49.",9,No code or no data,4
+S32W.V67,"Types of segregation: E. Derived from Q.60, Q.62, Q.63.",2,"Accepts separation: two items, or one item and one undecided",711
+S32W.V67,"Types of segregation: E. Derived from Q.60, Q.62, Q.63.",1,Accepts separation: all three items,1891
+S32W.V67,"Types of segregation: E. Derived from Q.60, Q.62, Q.63.",3,Inconsistent: tendency to accept separation,536
+S32W.V67,"Types of segregation: E. Derived from Q.60, Q.62, Q.63.",6,Inconsistent: tendency to reject separation,362
+S32W.V67,"Types of segregation: E. Derived from Q.60, Q.62, Q.63.",4,Rejects separation: all three items,324
+S32W.V67,"Types of segregation: E. Derived from Q.60, Q.62, Q.63.",5,Rejects separation: two items,519
+S32W.V67,"Types of segregation: E. Derived from Q.60, Q.62, Q.63.",7,Dominant tendency to be noncommittal or indifferent,445
+S32W.V67,"Types of segregation: E. Derived from Q.60, Q.62, Q.63.",8,Miscellaneous inconsistent patterns,5
+S32W.V68,"Combat types, personal preference: E. Derived from Q.30, Q.31, Q.32.",2,"Combat outfit overseas, actual fighting job, other",634
+S32W.V68,"Combat types, personal preference: E. Derived from Q.30, Q.31, Q.32.",1,"Combat outfit overseas, actual fighting job, soldier",1082
+S32W.V68,"Combat types, personal preference: E. Derived from Q.30, Q.31, Q.32.",12,"Outfit in U.S., other job, other",1262
+S32W.V68,"Combat types, personal preference: E. Derived from Q.30, Q.31, Q.32.",8,"Non-combat outfit overseas, other job, other",359
+S32W.V68,"Combat types, personal preference: E. Derived from Q.30, Q.31, Q.32.",7,"Non-combat outfit overseas, other job, soldier",208
+S32W.V68,"Combat types, personal preference: E. Derived from Q.30, Q.31, Q.32.",10,"Outfit in U.S., actual fighting job, other",317
+S32W.V68,"Combat types, personal preference: E. Derived from Q.30, Q.31, Q.32.",13,No answer,99
+S32W.V68,"Combat types, personal preference: E. Derived from Q.30, Q.31, Q.32.",11,"Outfit in U.S., other job, soldier",248
+S32W.V68,"Combat types, personal preference: E. Derived from Q.30, Q.31, Q.32.",6,"Non-combat outfit overseas, actual fighting job, other",77
+S32W.V68,"Combat types, personal preference: E. Derived from Q.30, Q.31, Q.32.",5,"Non-combat outfit overseas, actual fighting job, soldier",67
+S32W.V68,"Combat types, personal preference: E. Derived from Q.30, Q.31, Q.32.",9,"Outfit in U.S., actual fighting job, soldier",191
+S32W.V68,"Combat types, personal preference: E. Derived from Q.30, Q.31, Q.32.",3,"Combat outfit overseas, other job, soldier",114
+S32W.V68,"Combat types, personal preference: E. Derived from Q.30, Q.31, Q.32.",4,"Combat outfit overseas, other job, other",135
+S32W.V69,"Camp and North-South origin of men: E. Origin of men derived from Q.13. Southern states (N.C., S.C., Geo., Fla., Tenn., Ala., Miss., Ark., Va., La., Ok., Tex.); Border states (Mo., Del., Md., D.C., W. Va., Ky.); Northern states (all others). E. Camp groups derived from V.70, codes as follows: Atlantic City (20); Northern camps (53, 96); Southern camps (02, 03, 30, 48, 84, 86, 88).",2,Atlantic City: Southern men,51
+S32W.V69,"Camp and North-South origin of men: E. Origin of men derived from Q.13. Southern states (N.C., S.C., Geo., Fla., Tenn., Ala., Miss., Ark., Va., La., Ok., Tex.); Border states (Mo., Del., Md., D.C., W. Va., Ky.); Northern states (all others). E. Camp groups derived from V.70, codes as follows: Atlantic City (20); Northern camps (53, 96); Southern camps (02, 03, 30, 48, 84, 86, 88).",1,Atlantic City: Border State men,44
+S32W.V69,"Camp and North-South origin of men: E. Origin of men derived from Q.13. Southern states (N.C., S.C., Geo., Fla., Tenn., Ala., Miss., Ark., Va., La., Ok., Tex.); Border states (Mo., Del., Md., D.C., W. Va., Ky.); Northern states (all others). E. Camp groups derived from V.70, codes as follows: Atlantic City (20); Northern camps (53, 96); Southern camps (02, 03, 30, 48, 84, 86, 88).",3,Northern: Northern men,1143
+S32W.V69,"Camp and North-South origin of men: E. Origin of men derived from Q.13. Southern states (N.C., S.C., Geo., Fla., Tenn., Ala., Miss., Ark., Va., La., Ok., Tex.); Border states (Mo., Del., Md., D.C., W. Va., Ky.); Northern states (all others). E. Camp groups derived from V.70, codes as follows: Atlantic City (20); Northern camps (53, 96); Southern camps (02, 03, 30, 48, 84, 86, 88).",6,Southern: Northern men,1820
+S32W.V69,"Camp and North-South origin of men: E. Origin of men derived from Q.13. Southern states (N.C., S.C., Geo., Fla., Tenn., Ala., Miss., Ark., Va., La., Ok., Tex.); Border states (Mo., Del., Md., D.C., W. Va., Ky.); Northern states (all others). E. Camp groups derived from V.70, codes as follows: Atlantic City (20); Northern camps (53, 96); Southern camps (02, 03, 30, 48, 84, 86, 88).",0,Atlantic City: Northern men,331
+S32W.V69,"Camp and North-South origin of men: E. Origin of men derived from Q.13. Southern states (N.C., S.C., Geo., Fla., Tenn., Ala., Miss., Ark., Va., La., Ok., Tex.); Border states (Mo., Del., Md., D.C., W. Va., Ky.); Northern states (all others). E. Camp groups derived from V.70, codes as follows: Atlantic City (20); Northern camps (53, 96); Southern camps (02, 03, 30, 48, 84, 86, 88).",4,Northern: Border State men,126
+S32W.V69,"Camp and North-South origin of men: E. Origin of men derived from Q.13. Southern states (N.C., S.C., Geo., Fla., Tenn., Ala., Miss., Ark., Va., La., Ok., Tex.); Border states (Mo., Del., Md., D.C., W. Va., Ky.); Northern states (all others). E. Camp groups derived from V.70, codes as follows: Atlantic City (20); Northern camps (53, 96); Southern camps (02, 03, 30, 48, 84, 86, 88).",5,Northern: Southern men,137
+S32W.V69,"Camp and North-South origin of men: E. Origin of men derived from Q.13. Southern states (N.C., S.C., Geo., Fla., Tenn., Ala., Miss., Ark., Va., La., Ok., Tex.); Border states (Mo., Del., Md., D.C., W. Va., Ky.); Northern states (all others). E. Camp groups derived from V.70, codes as follows: Atlantic City (20); Northern camps (53, 96); Southern camps (02, 03, 30, 48, 84, 86, 88).",7,Southern: Border State men,176
+S32W.V69,"Camp and North-South origin of men: E. Origin of men derived from Q.13. Southern states (N.C., S.C., Geo., Fla., Tenn., Ala., Miss., Ark., Va., La., Ok., Tex.); Border states (Mo., Del., Md., D.C., W. Va., Ky.); Northern states (all others). E. Camp groups derived from V.70, codes as follows: Atlantic City (20); Northern camps (53, 96); Southern camps (02, 03, 30, 48, 84, 86, 88).",8,Southern: Southern men,965
+S32W.V70,Camp identification:,2,"Rucker, Ala.",610
+S32W.V70,Camp identification:,0,No code or no data,9
+S32W.V70,Camp identification:,3,"Eglin, Florida",355
+S32W.V70,Camp identification:,53,"Atterbury, Ind.",611
+S32W.V70,Camp identification:,84,"Ft. Sill, Okla.",421
+S32W.V70,Camp identification:,86,"Kelly Field, Texas",384
+S32W.V70,Camp identification:,88,"Brooks Field, Texas",302
+S32W.V70,Camp identification:,20,"Atlantic City, N.J.",420
+S32W.V70,Camp identification:,30,"Pickett, Virginia",654
+S32W.V70,Camp identification:,48,"Shelby, Miss.",231
+S32W.V70,Camp identification:,96,"Fort Lewis, Wash.",796
