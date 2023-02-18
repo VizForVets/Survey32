@@ -18,7 +18,9 @@ The challenge is to visualize any trend or story in the data that needs to be to
 
 The source data is located in this repository.
 
-For your convenience, prepped data is located [here](https://github.com/VizForVets/Survey32/tree/main/Prepped%20Data). The prepped data includes both surveys as separate CSVs with a table linking apparent similar questions between the surveys. This is in by no means determinative and only provided as a way to compare the datasets. Obviously, free to prep the raw data yourself and compare questions as necessary.
+For your convenience, prepped data is located [here](https://github.com/VizForVets/Survey32/tree/main/Prepped%20Data). The prepped data includes both surveys as separate CSVs with a table linking apparent similar questions between the surveys. This is in by no means determinative and only provided as a way to compare the datasets. Obviously, you are free to prep the raw data yourself and compare questions as necessary.
+
+Additionally, here is a short video of how I went about prepping the data in [Power Query](https://youtu.be/rmwVOAiA3R4).
 
 You can use any tools at your disposal. The final product should be published as a dashboard to Tableau Public with the following hashtag in the details:
 
