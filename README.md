@@ -10,6 +10,8 @@ Find out more [here](https://s3.amazonaws.com/NARAprodstorage/opastorage/live/69
 
 Find out more [here](https://catalog.archives.gov/id/854569) about this particular survey.
 
+[Watch the kickoff meeting](https://www.youtube.com/watch?v=VwMFQcpDryE) with Dr. Ed Gitre.
+
 ## MISSION
 
 The challenge is to visualize any trend or story in the data that needs to be told in a clear and compelling way. 
